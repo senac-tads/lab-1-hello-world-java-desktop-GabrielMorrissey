@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.senac.sp.helloworld;
+package lab_01_main;
 
-import br.senac.sp.view.HelloView;
+import lab_01_classes.HelloView;
 
 /**
  *
